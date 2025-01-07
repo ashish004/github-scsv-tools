@@ -8,3 +8,25 @@ SPIKE: GCP Policy List Merge for exceptions
 [PCG Prisma] Azure: Key Vaults should have purge protection enabled
 [PCG Prisma] Azure: Key Vaults should have soft delete enabled
 Fixing some bugs like this one
+
+
+Created Troubleshooting With golden container images document.
+Key Rotation of 90 Azure SPs out of 100 in Dec. Achieving 90 percentage of the compliance. 
+Resolved Major user technical issues received on teams channel. 
+Updated Migrating to Golden Container Images.
+Drafted the GCP VM Golden image document.
+Updated Golden Images FAQ document.
+Minimized most manual steps in Golden Images weekly analysis process.
+Followed up with application teams to remediate non-compliant golden images
+ 
+Singh, Sandeep
+Created Troubleshooting With goldencontainer images document.Key Rotation of 90 Azure SPs out of 100 in Dec. Achieving 90 percentage of the compliance. Resolved Major user technical issues received on teams channel. Updated Migrating to Golden Container Images.Drafted the GCP VM Golden image docume…
+Nguyen, Hang add if anything missing
+
+ 
+Singh, Sandeep
+Created Troubleshooting With golden container images document.Key Rotation of 90 Azure SPs out of 100 in Dec. Achieving 90 percentage of the compliance. Resolved Major user technical issues received on teams channel. Updated Migrating to Golden Container Images.Drafted the GCP VM Golden image docum…
+
+Changed "Drafted the GCP VM Golden image document." to "Created and published ..."
+
+ 
