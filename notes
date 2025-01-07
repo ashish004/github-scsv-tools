@@ -1,0 +1,10 @@
+PCG Prisma] Prisma equivalents for GCP port policies
+[PCG Prisma] GCP policy: Use Zonal DNS for your internal DNS type
+[PCG Policies] GCP Policy: Domain restricted contacts
+[PCG Policies] GCP policy: Disable service account key upload
+SPIKE: GCP Policy List Merge for exceptions
+[PCG Prisma] GCP Policy: Domain restricted contacts
+[PCG Prisma] Azure: Key Vault should have firewall enabled
+[PCG Prisma] Azure: Key Vaults should have purge protection enabled
+[PCG Prisma] Azure: Key Vaults should have soft delete enabled
+Fixing some bugs like this one
